@@ -34,7 +34,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc-core": "~0.8.2",
+    "apidoc-core": "https://github.com/developmentseed/apidoc-core.git#6186aa301f3eb07be61ccafb8e816e97aecd5a6a",
     "fs-extra": "~3.0.1",
     "lodash": "~4.17.4",
     "markdown-it": "^8.3.1",
